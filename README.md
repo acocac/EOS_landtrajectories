@@ -13,5 +13,5 @@ Input data for notebooks are stored in the data dir
 Research as part of PhD in Geography at King's College London
 
 ### Who do I talk to? ###
-Alejandro Coca-Castro
+Alejandro Coca-Castro - 
 alejandro.coca_castro@kcl.ac.uk
